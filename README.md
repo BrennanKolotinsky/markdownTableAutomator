@@ -1,6 +1,11 @@
 # Table Markdown Automator
-## To create a markdown chart, simply pull this code and place your CSV file in the root directory of this code
-## Then simply run python markdownCreator.py and type the name of your CSV file when prompted. The output will be markdown in the README.md file
+To create a markdown chart: 
+* Pull this code 
+* Place your CSV file in the root directory of this code 
+* Run ```python markdownCreator.py``` 
+* Type the name of your CSV file when prompted
+
+The output will be markdown in the README.md file
 | Item | Quantity | Manufacturer | Part # | Price (USD) | Sources | Notes |
 |  - | - | - | - | - | - | - |
 | A1 | 1 | RespiraWorks | upper_acrylic_face_panel |  | Rw | Upper acrylic face panel |
